@@ -1,0 +1,11 @@
+.add-item-panel {
+    margin-top: 10px;
+}
+
+.add-item-panel input{
+    margin-right: 4px;
+}
+
+.add-item-panel button{
+    min-width: fit-content;
+}
